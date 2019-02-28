@@ -1,0 +1,8 @@
+{
+  "name": "@sugarfish/easy-cookie",
+  "version": "0.0.1",
+  "description": "cookie methods",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
