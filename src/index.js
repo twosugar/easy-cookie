@@ -11,7 +11,9 @@ function lookCookie(name) {
   if(!name) {
     return ''
   }
-  return cookieList[name]
+  for (let item of cookieList) {
+    return item[name]
+  }
 }
 
 function setCookie(name, contnet, expires) {
