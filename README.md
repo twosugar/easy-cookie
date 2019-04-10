@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/apm/v/:packageName.svg)](https://www.npmjs.com/package/@sugarfish/easy-cookie)
+[![npm](https://img.shields.io/npm/v/@sugarfish/easy-cookie.svg)](https://www.npmjs.com/package/@sugarfish/easy-cookie)
 
 ### 安装
 `npm i @sugarfish/easy-cookie --save`
