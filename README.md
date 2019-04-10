@@ -1,3 +1,5 @@
+[版本图片](https://www.npmjs.com/package/@sugarfish/easy-cookie)
+
 ### 安装
 `npm i @sugarfish/easy-cookie --save`
 ### 使用
