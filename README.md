@@ -1,5 +1,6 @@
 [![](https://img.shields.io/npm/v/@sugarfish/easy-cookie.svg)](https://www.npmjs.com/package/@sugarfish/easy-cookie)
 ![](https://img.shields.io/npm/l/@sugarfish/easy-cookie.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com)
+
 一个简洁的cookie存储方案
 ### 安装
 `npm i @sugarfish/easy-cookie --save`
